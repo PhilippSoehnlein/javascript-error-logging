@@ -31,6 +31,7 @@ Hosted services
 Self-hosted services
 --------------------
 - http://jsnlog.com/
+- [Exceptionless](https://exceptionless.com/) - Can also be used as hosted service.
 
 
 Comparisons between services
